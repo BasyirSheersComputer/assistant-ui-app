@@ -32,3 +32,5 @@ Step 3: Run the app:
 ```sh
 npm run dev
 ```
+
+Disclaimer: This is forked based from the assistant-ui github repo by Yonom: https://github.com/assistant-ui/assistant-ui
